@@ -31,7 +31,7 @@ for (int i = 0; i < integers.length; i++) {
     maxnum = integers[i];
   }
 }   
-print("max number is $maxnum");
+print("max number is $maxnum"); 
 
 
 
@@ -73,7 +73,6 @@ names.sort();
 print(names);
 nnames.clear();
 print(nnames);
-
 
 
 }
