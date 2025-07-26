@@ -25,17 +25,7 @@ void main() {
 
     
     
-  Map stdDetailss= {};
-
-  String? stdName = stdin.readLineSync()!;
-  print("Enter your class:");
-  String? Stdclass = stdin.readLineSync()!;
-  print( "Enter your age:");
-  String? stdAge = (stdin.readLineSync()!);
-  print("Enter your age:");
-stdDetailss.addAll({"name": stdName, "class": Stdclass, "age": stdAge});
-
-print(stdDetailss);
+  
 
   
 }
